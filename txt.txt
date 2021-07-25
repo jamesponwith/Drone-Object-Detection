@@ -1,0 +1,23 @@
+
+axis data:
+left:
+    0: (-1 left, 1 right)
+    1: (-1 up, 1 down)
+right
+    3: (-1 left, 1 right)
+    4: (-1 up, 1 down)
+
+buttons:
+0: x
+1: circle
+2: triangle
+3: square
+4: l1
+5: r1
+6: l2
+7: r2
+8: share
+9: options
+10: ps
+11: l3
+12: r3
